@@ -1,1 +1,1 @@
-[Food Network](https://ay-on.github.io/Food-Network/) live demo
+A simple website using HTML & CSS
